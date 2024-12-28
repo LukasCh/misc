@@ -1,11 +1,13 @@
-### **Základné pokyny**
+## **Základné pokyny**
 - Začnite s ľahkými váhami a zamerajte sa na správnu techniku.
 - Vykonajte 1 zahrievaciu s ľahkou váhou a 3 pracovné série po 8–12 opakovaní pre každý cvik.
 - Oddychujte 30–60 sekúnd medzi sériami.
 - Pred cvičením sa zahrejte jemnými pohybmi kĺbov alebo ľahkým kardiom (napr. chôdza alebo bicyklovanie).
 - Po cvičení sa ponaťahujte, aby ste znížili stuhnutosť.
 
-### **Tréningový plán**
+---
+
+## **Tréningový plán**
 
 #### **1. Šikmý tlak s jednoručkami na lavičke (Tlak - horná časť tela)**  
 - **Video**: [Šikmý tlak s jednoručkami na lavičke](https://youtu.be/5CECBjd7HLQ?si=x4hprpCKwQYILVY6)
