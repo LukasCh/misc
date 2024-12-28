@@ -1,4 +1,4 @@
-## ** Marika - tréningový plán**
+## **Marika - tréningový plán**
 
 ### **Základné pokyny**
 - Začnite s ľahkými váhami a zamerajte sa na správnu techniku.
