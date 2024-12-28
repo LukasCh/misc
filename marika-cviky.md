@@ -1,3 +1,5 @@
+# ** Marika - tréningový plán**
+
 ## **Základné pokyny**
 - Začnite s ľahkými váhami a zamerajte sa na správnu techniku.
 - Vykonajte 1 zahrievaciu s ľahkou váhou a 3 pracovné série po 8–12 opakovaní pre každý cvik.
@@ -5,9 +7,9 @@
 - Pred cvičením sa zahrejte jemnými pohybmi kĺbov alebo ľahkým kardiom (napr. chôdza alebo bicyklovanie).
 - Po cvičení sa ponaťahujte, aby ste znížili stuhnutosť.
 
----
+--
 
-## **Tréningový plán**
+## **Cviky**
 
 #### **1. Šikmý tlak s jednoručkami na lavičke (Tlak - horná časť tela)**  
 - **Video**: [Šikmý tlak s jednoručkami na lavičke](https://youtu.be/5CECBjd7HLQ?si=x4hprpCKwQYILVY6)
@@ -49,7 +51,7 @@
 
 ---
 
-### **Poradie cvičení**
+## **Poradie cvičení**
 1. Šikmý tlak s jednoručkami (**Tlak - horná časť tela**)  
 2. Veslovanie na kladke s oporou hrudníka (**Ťah - horná časť tela**)  
 3. Hyperextenzie na rímskej lavici (**Jadro/spodná časť chrbta**)  
