@@ -12,8 +12,7 @@
 ---
 
 ### **Cviky**
-
-   
+<br>
 
 #### **1. Šikmý tlak s jednoručkami na lavičke (Tlak - horná časť tela)**  
 - **Video**: [Šikmý tlak s jednoručkami na lavičke](https://youtu.be/5CECBjd7HLQ?si=x4hprpCKwQYILVY6)
