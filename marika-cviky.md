@@ -1,6 +1,7 @@
 ### ***Marika - tréningový plán***
 
 
+
 ### **Základné pokyny**
 - Začnite s ľahkými váhami a zamerajte sa na správnu techniku.
 - Vykonajte 1 zahrievaciu s ľahkou váhou a 3 pracovné série po 8–12 opakovaní pre každý cvik.
