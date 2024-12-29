@@ -3,10 +3,9 @@
 ---
 
 ### **Základné pokyny**
-- Začnite s ľahkými váhami a zamerajte sa na správnu techniku.
+- Pred cvičením sa zahrejte jemnými pohybmi kĺbov alebo ľahkým kardiom (napr. chôdza alebo bicyklovanie).
 - Vykonajte 1 zahrievaciu s ľahkou váhou a 3 pracovné série po 8–12 opakovaní pre každý cvik.
 - Oddychujte 30–60 sekúnd medzi sériami.
-- Pred cvičením sa zahrejte jemnými pohybmi kĺbov alebo ľahkým kardiom (napr. chôdza alebo bicyklovanie).
 - Po cvičení sa ponaťahujte, aby ste znížili stuhnutosť.
 
 ---
